@@ -1,1 +1,2 @@
 # RepoEx1
+newImage
